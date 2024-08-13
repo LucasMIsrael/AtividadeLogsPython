@@ -1,0 +1,5 @@
+2024-08-12 21:05:25,213 - logger_config - DEBUG - Este é um log de DEBUG: informações detalhadas para diagnóstico.
+2024-08-12 21:05:25,213 - logger_config - INFO - Este é um log de INFO: confirmação de que as coisas estão funcionando como esperado.
+2024-08-12 21:05:25,213 - logger_config - WARNING - Este é um log de WARNING: algo inesperado aconteceu ou pode acontecer.
+2024-08-12 21:05:25,213 - logger_config - ERROR - Este é um log de ERROR: o software não conseguiu realizar uma função.
+2024-08-12 21:05:25,213 - logger_config - CRITICAL - Este é um log de CRITICAL: erro grave, o programa pode não continuar.
