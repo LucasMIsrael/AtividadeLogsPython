@@ -3,3 +3,47 @@
 2024-08-12 21:05:25,213 - logger_config - WARNING - Este é um log de WARNING: algo inesperado aconteceu ou pode acontecer.
 2024-08-12 21:05:25,213 - logger_config - ERROR - Este é um log de ERROR: o software não conseguiu realizar uma função.
 2024-08-12 21:05:25,213 - logger_config - CRITICAL - Este é um log de CRITICAL: erro grave, o programa pode não continuar.
+2024-08-17 20:24:38,481 - logger_config - DEBUG - Este é um log de DEBUG: informações detalhadas para diagnóstico.
+2024-08-17 20:24:38,481 - logger_config - INFO - Este é um log de INFO: confirmação de que as coisas estão funcionando como esperado.
+2024-08-17 20:24:38,482 - logger_config - WARNING - Este é um log de WARNING: algo inesperado aconteceu ou pode acontecer.
+2024-08-17 20:24:38,482 - logger_config - ERROR - Este é um log de ERROR: o software não conseguiu realizar uma função.
+2024-08-17 20:24:38,482 - logger_config - CRITICAL - Este é um log de CRITICAL: erro grave, o programa pode não continuar.
+2024-08-17 20:24:43,946 - logger_config - DEBUG - Este é um log de DEBUG: informações detalhadas para diagnóstico.
+2024-08-17 20:24:43,946 - logger_config - INFO - Este é um log de INFO: confirmação de que as coisas estão funcionando como esperado.
+2024-08-17 20:24:43,946 - logger_config - WARNING - Este é um log de WARNING: algo inesperado aconteceu ou pode acontecer.
+2024-08-17 20:24:43,946 - logger_config - ERROR - Este é um log de ERROR: o software não conseguiu realizar uma função.
+2024-08-17 20:24:43,946 - logger_config - CRITICAL - Este é um log de CRITICAL: erro grave, o programa pode não continuar.
+2024-08-17 22:42:03,190 - logger_config - DEBUG - Este é um log de DEBUG: informações detalhadas para diagnóstico.
+2024-08-17 22:42:17,326 - logger_config - INFO - Este é um log de INFO: confirmação de que as coisas estão funcionando como esperado.
+2024-08-17 22:42:31,599 - logger_config - WARNING - Este é um log de WARNING: algo inesperado aconteceu ou pode acontecer.
+2024-08-17 22:42:45,909 - logger_config - ERROR - Este é um log de ERROR: o software não conseguiu realizar uma função.
+2024-08-17 22:43:00,155 - logger_config - CRITICAL - Este é um log de CRITICAL: erro grave, o programa pode não continuar.
+2024-08-17 22:45:38,259 - logger_config - DEBUG - Este é um log de DEBUG: informações detalhadas para diagnóstico.
+2024-08-17 22:45:52,384 - logger_config - INFO - Este é um log de INFO: confirmação de que as coisas estão funcionando como esperado.
+2024-08-17 22:46:06,631 - logger_config - WARNING - Este é um log de WARNING: algo inesperado aconteceu ou pode acontecer.
+2024-08-17 22:46:20,905 - logger_config - ERROR - Este é um log de ERROR: o software não conseguiu realizar uma função.
+2024-08-17 22:46:35,055 - logger_config - CRITICAL - Este é um log de CRITICAL: erro grave, o programa pode não continuar.
+2024-08-17 22:47:54,928 - logger_config - DEBUG - Este é um log de DEBUG: informações detalhadas para diagnóstico.
+2024-08-17 22:48:09,264 - logger_config - INFO - Este é um log de INFO: confirmação de que as coisas estão funcionando como esperado.
+2024-08-17 22:48:23,429 - logger_config - WARNING - Este é um log de WARNING: algo inesperado aconteceu ou pode acontecer.
+2024-08-17 22:48:37,599 - logger_config - ERROR - Este é um log de ERROR: o software não conseguiu realizar uma função.
+2024-08-17 22:48:48,157 - logger_config - DEBUG - Este é um log de DEBUG: informações detalhadas para diagnóstico.
+2024-08-17 22:48:48,839 - logger_config - INFO - Este é um log de INFO: confirmação de que as coisas estão funcionando como esperado.
+2024-08-17 22:48:49,445 - logger_config - WARNING - Este é um log de WARNING: algo inesperado aconteceu ou pode acontecer.
+2024-08-17 22:48:50,061 - logger_config - ERROR - Este é um log de ERROR: o software não conseguiu realizar uma função.
+2024-08-17 22:48:50,680 - logger_config - CRITICAL - Este é um log de CRITICAL: erro grave, o programa pode não continuar.
+2024-08-17 22:53:38,232 - logger_config - DEBUG - Este é um log de DEBUG: informações detalhadas para diagnóstico.
+2024-08-17 22:53:38,926 - logger_config - INFO - Este é um log de INFO: confirmação de que as coisas estão funcionando como esperado.
+2024-08-17 22:53:39,546 - logger_config - WARNING - Este é um log de WARNING: algo inesperado aconteceu ou pode acontecer.
+2024-08-17 22:53:40,164 - logger_config - ERROR - Este é um log de ERROR: o software não conseguiu realizar uma função.
+2024-08-17 22:53:40,780 - logger_config - CRITICAL - Este é um log de CRITICAL: erro grave, o programa pode não continuar.
+2024-08-17 22:56:44,713 - logger_config - DEBUG - Este é um log de DEBUG: informações detalhadas para diagnóstico.
+2024-08-17 22:56:45,347 - logger_config - INFO - Este é um log de INFO: confirmação de que as coisas estão funcionando como esperado.
+2024-08-17 22:56:45,965 - logger_config - WARNING - Este é um log de WARNING: algo inesperado aconteceu ou pode acontecer.
+2024-08-17 22:56:46,584 - logger_config - ERROR - Este é um log de ERROR: o software não conseguiu realizar uma função.
+2024-08-17 22:56:47,183 - logger_config - CRITICAL - Este é um log de CRITICAL: erro grave, o programa pode não continuar.
+2024-08-18 14:54:46,291 - logger_config - DEBUG - Este é um log de DEBUG: informações detalhadas para diagnóstico.
+2024-08-18 14:54:47,251 - logger_config - INFO - Este é um log de INFO: confirmação de que as coisas estão funcionando como esperado.
+2024-08-18 14:54:48,167 - logger_config - WARNING - Este é um log de WARNING: algo inesperado aconteceu ou pode acontecer.
+2024-08-18 14:54:49,085 - logger_config - ERROR - Este é um log de ERROR: o software não conseguiu realizar uma função.
+2024-08-18 14:54:50,067 - logger_config - CRITICAL - Este é um log de CRITICAL: erro grave, o programa pode não continuar.

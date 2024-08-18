@@ -1,8 +1,12 @@
+import logging
 from logger_config import setup_logger
 
 def main():
+    # Substitua 'YOUR_LOGGLY_CUSTOMER_TOKEN' pelo seu token real de entrada do Loggly
+    customer_token = '0cacd53e-5330-4e40-941d-b51ff6bdfb08'
+    
     # Configura o logger
-    logger = setup_logger('app.log')
+    logger = setup_logger('app.log', logging.DEBUG, customer_token)
 
     # Gerando logs em diferentes níveis
     logger.debug('Este é um log de DEBUG: informações detalhadas para diagnóstico.')
